@@ -1,0 +1,5 @@
+Todo
+====
+
+1. API to create Package and Release objects from JSON
+2. API to load Package/Release into a DB
